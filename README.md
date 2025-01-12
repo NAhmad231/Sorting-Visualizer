@@ -1,6 +1,5 @@
 # Sorting-Visualizer
-## 🌐 Live Demo 
-[Live Demo](https://nahmad231.github.io/Sorting-Visualizer/) 
+## 🌐 Live Demo   [Live Demo](https://nahmad231.github.io/Sorting-Visualizer/) 
 
 
 Sorting algorithms are the heart of computer science and data manipulation. Sorting Visualizer brings these algorithms to life through a visually interactive tool, helping users understand and analyze the behavior of some of the most popular sorting techniques.
